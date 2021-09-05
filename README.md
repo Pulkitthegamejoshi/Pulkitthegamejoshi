@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pulkitthegamejoshi
-- 👀 I,m a graduate in Computer Science and Engineering.
+- 👀 I,m a graduate in Computer Science and Engineering, currently pursuing M. Tech from NIT Calicut.
 - 🌱 A 'Newbie' in Codeforces. 
 - 📫 To reach me, drop a mail to pulkitthegamejoshi@gmail.com or visit <a href="https://www.linkedin.com/in/pulkit-joshi-887254b2/">here</a>.
 
